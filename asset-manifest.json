@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BastianBrito/ReactTodo/static/css/main.f0752fcd.css",
+    "main.js": "/BastianBrito/ReactTodo/static/js/main.7eb500e8.js",
+    "index.html": "/BastianBrito/ReactTodo/index.html",
+    "static/media/delete.svg": "/BastianBrito/ReactTodo/static/media/delete.f8e04b980f4a347b447ca1bb82768b46.svg",
+    "static/media/check.svg": "/BastianBrito/ReactTodo/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.f0752fcd.css.map": "/BastianBrito/ReactTodo/static/css/main.f0752fcd.css.map",
+    "main.7eb500e8.js.map": "/BastianBrito/ReactTodo/static/js/main.7eb500e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0752fcd.css",
+    "static/js/main.7eb500e8.js"
+  ]
+}
